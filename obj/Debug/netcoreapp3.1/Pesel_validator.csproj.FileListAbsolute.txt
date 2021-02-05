@@ -1,0 +1,12 @@
+/Users/robert/Projects_C#/Pesel_validator/obj/Debug/netcoreapp3.1/Pesel_validator.csprojAssemblyReference.cache
+/Users/robert/Projects_C#/Pesel_validator/obj/Debug/netcoreapp3.1/Pesel_validator.AssemblyInfoInputs.cache
+/Users/robert/Projects_C#/Pesel_validator/obj/Debug/netcoreapp3.1/Pesel_validator.AssemblyInfo.cs
+/Users/robert/Projects_C#/Pesel_validator/obj/Debug/netcoreapp3.1/Pesel_validator.csproj.CoreCompileInputs.cache
+/Users/robert/Projects_C#/Pesel_validator/bin/Debug/netcoreapp3.1/Pesel_validator.deps.json
+/Users/robert/Projects_C#/Pesel_validator/bin/Debug/netcoreapp3.1/Pesel_validator.runtimeconfig.json
+/Users/robert/Projects_C#/Pesel_validator/bin/Debug/netcoreapp3.1/Pesel_validator.runtimeconfig.dev.json
+/Users/robert/Projects_C#/Pesel_validator/bin/Debug/netcoreapp3.1/Pesel_validator.dll
+/Users/robert/Projects_C#/Pesel_validator/bin/Debug/netcoreapp3.1/Pesel_validator.pdb
+/Users/robert/Projects_C#/Pesel_validator/obj/Debug/netcoreapp3.1/Pesel_validator.dll
+/Users/robert/Projects_C#/Pesel_validator/obj/Debug/netcoreapp3.1/Pesel_validator.pdb
+/Users/robert/Projects_C#/Pesel_validator/obj/Debug/netcoreapp3.1/Pesel_validator.genruntimeconfig.cache
